@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.5.0" name="hello-karaf-demo">
+    <repository>mvn:no.priv.bang.osgi.service.adapters/service-adapters-karaf/1.0.0/xml/features</repository>
+    <feature name="hello-karaf" description="Pax Web Whiteboard extender hello world application" version="1.0.0.SNAPSHOT">
+        <details>An OSGi Declarative Services (DS) component that starts and registers a servlet as a service.  The servlet returns a simple "Hello world" style HTML page.</details>
+        <feature>adapter-for-osgi-logservice</feature>
+        <feature>pax-http-whiteboard</feature>
+        <bundle start-level="80">mvn:no.priv.bang.demos/hello-karaf-demo/1.0.0-SNAPSHOT</bundle>
+        <bundle start-level="80">mvn:log4j/log4j/1.2.17</bundle>
+    </feature>
+</features>
