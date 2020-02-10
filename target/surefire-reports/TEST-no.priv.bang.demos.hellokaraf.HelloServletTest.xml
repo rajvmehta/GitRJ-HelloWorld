@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="no.priv.bang.demos.hellokaraf.HelloServletTest" time="0.241" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="no.priv.bang.demos.hellokaraf.HelloServletTest" time="0.284" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\bin"/>
     <property name="java.vm.version" value="25.231-b11"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\karaf\hello-karaf-demo"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\GitRJ\GitRJ-HelloWorld"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\karaf\hello-karaf-demo"/>
+    <property name="user.dir" value="C:\GitRJ\GitRJ-HelloWorld"/>
     <property name="java.runtime.version" value="1.8.0_231-b11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\endorsed"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\raj.mehta\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7264674473648265955.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\raj.mehta\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6996540506440913774.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_231\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_231/bin/server;C:/Program Files/Java/jre1.8.0_231/bin;C:/Program Files/Java/jre1.8.0_231/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files\Java\jdk1.8.0_231\;C:\cygwin64\bin;C:\HashiCorp\Vagrant\bin;C:\karaf\apache-karaf-4.2.7\bin;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\Java\jre1.8.0_231\bin;C:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_231\\bin;C:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\raj.mehta\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\raj.mehta\AppData\Local\GitHubDesktop\bin;C:\WINDOWS\system32;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -53,7 +53,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\karaf\hello-karaf-demo\EMBEDDED"/>
+    <property name="maven.home" value="C:\GitRJ\GitRJ-HelloWorld\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -61,6 +61,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="no.priv.bang.demos.hellokaraf.HelloServletTest" name="testDoGetWithError" time="0.236"/>
-  <testcase classname="no.priv.bang.demos.hellokaraf.HelloServletTest" name="testDoGet" time="0.005"/>
+  <testcase classname="no.priv.bang.demos.hellokaraf.HelloServletTest" name="testDoGetWithError" time="0.28"/>
+  <testcase classname="no.priv.bang.demos.hellokaraf.HelloServletTest" name="testDoGet" time="0.004"/>
 </testsuite>

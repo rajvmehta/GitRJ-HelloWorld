@@ -33,7 +33,7 @@ import org.osgi.service.log.LogService;
 
 import no.priv.bang.osgi.service.adapters.logservice.LogServiceAdapter;
 
-@Component(service={Servlet.class}, property={"alias=/hello"} )
+@Component(service={Servlet.class}, property={"alias=/hellokaraf"} )
 public class HelloServlet extends HttpServlet {
 	final static Logger logger = Logger.getLogger(HelloServlet.class);
     private static final long serialVersionUID = 1L;

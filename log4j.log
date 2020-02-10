@@ -1,0 +1,10 @@
+2020-02-05 12:13:16 INFO  HelloServlet:74 - This is info : java.lang.NullPointerException
+2020-02-05 12:13:16 WARN  HelloServlet:66 - This is warn : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
+2020-02-05 12:13:16 ERROR HelloServlet:67 - This is error : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
+2020-02-05 12:13:16 FATAL HelloServlet:68 - This is fatal : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
+2020-02-05 12:13:16 DEBUG HelloServlet:69 - This is debug : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
+2020-02-05 14:21:23 INFO  HelloServlet:74 - This is info : java.lang.NullPointerException
+2020-02-05 14:21:23 WARN  HelloServlet:66 - This is warn : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
+2020-02-05 14:21:23 ERROR HelloServlet:67 - This is error : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
+2020-02-05 14:21:23 FATAL HelloServlet:68 - This is fatal : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
+2020-02-05 14:21:23 DEBUG HelloServlet:69 - This is debug : no.priv.bang.demos.hellokaraf.mocks.MockHttpServletResponse$$EnhancerByMockitoWithCGLIB$$3ceea288@4b1c1ea0
